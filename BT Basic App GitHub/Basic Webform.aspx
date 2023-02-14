@@ -12,6 +12,7 @@
             <% BT_Basic_App_GitHub.Class1 tp = new BT_Basic_App_GitHub.Class1(); %>
             <%=tp.Name %>
         </div>
+        <div>I ewon  </div>
     </form>
 </body>
 </html>
